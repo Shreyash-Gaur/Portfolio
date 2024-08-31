@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<svg width="55" height="55" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="black" height="55" id="svg_1" rx="27.5" width="55"/>
+  <text fill="#000000" font-family="Serif" font-size="24" id="svg_3" stroke-width="0" text-anchor="middle" transform="matrix(3.25855 0 0 0.886786 735.899 -1.53599)" x="-320.5" xml:space="preserve" y="7.9"/>
+  <text fill="#ffffff" font-family="Times" font-size="52" font-weight="normal" id="svg_2" stroke-width="0" text-anchor="middle" x="27.5" xml:space="preserve" y="39.9">s</text>
+ </g>
+</svg>
